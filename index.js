@@ -7,6 +7,8 @@ console.log(isPalindrome("radar"));
 console.log(isPalindrome("rotator"));
 console.log(isPalindrome("refer"));
 console.log(isPalindrome("kayak"));
+console.log(isPalindrome("boat"));
+
 
 /* 
   Add your pseudocode here
@@ -17,6 +19,10 @@ console.log(isPalindrome("kayak"));
   5. Function returns true if the string is indeed a palindrome
   6. Funciton returns false if it is not a palindrome
   7. Test code using console.log()
+
+  radar === radar // true
+  boat == boat // false
+
 */
 
 /*
